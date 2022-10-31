@@ -7,7 +7,7 @@ const collectionInfo = {
         instagram: "",
     },
     eprice: 0,
-    nprice: 0.0005,
+    nprice: 0,
     nfts:  100,
     spots: 89,
     logo: "images/logo.jpg",
